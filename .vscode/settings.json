@@ -1,0 +1,11 @@
+{
+  "angular-schematics.schematicsDefaultOptions": {
+    "angular-*": {
+      "externalTemplate": true,
+      "style": "scss"
+    }
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  }
+}
